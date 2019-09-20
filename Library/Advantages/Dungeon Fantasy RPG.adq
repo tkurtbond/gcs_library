@@ -4099,6 +4099,15 @@
 		</categories>
 	</advantage>
 	<advantage version="2">
+		<name>Quirk</name>
+		<type>Mental</type>
+		<base_points>-1</base_points>
+		<reference>DFA68</reference>
+		<categories>
+			<category>Quirk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
 		<name>Rallying Cry</name>
 		<type>Mental</type>
 		<base_points>5</base_points>
